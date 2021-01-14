@@ -1,0 +1,12 @@
+version: '3'
+services:
+  web:
+    build: .
+    environment:
+      - "TZ=Asia/Taipei"
+    ports:
+     - "5000:5000"
+  redis:
+    environment:
+      - "TZ=Asia/Taipei"
+    image: "redis:alpine"
