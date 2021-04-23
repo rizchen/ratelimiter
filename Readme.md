@@ -1,6 +1,6 @@
 ### Step 1: Download file
 ```
-$ git clone https://gitlab.com/fanfare-orca/orca-for-business/cdp/ratelimiter.git
+$ git clone https://github.com/rizchen/ratelimiter.git
 ```
 
 ### Step 2: to the folder 
