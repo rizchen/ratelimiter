@@ -5,7 +5,7 @@ $ git clone https://github.com/rizchen/ratelimiter.git
 
 ### Step 2: to the folder 
 ```
-$ cd /ratelimiter
+$ cd ratelimiter
 ```
 
 ### Step 3: Build Docker image
